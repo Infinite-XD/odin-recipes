@@ -18,8 +18,16 @@ h1 {
     font-weight: lighter;
 }
 
-
-
+img.center{
+    height: 150px;
+    width: auto;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
 
 
 
