@@ -18,6 +18,14 @@ h1 {
     font-weight: lighter;
 }
 
+#main-gif {
+    height: auto;
+    width: 600px;
+    border: 0.7px black solid;
+}
+
+
+
 img.center{
     height: 150px;
     width: auto;
