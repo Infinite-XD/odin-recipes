@@ -2,9 +2,16 @@ html {
     background-color: rgba(44, 202, 44, 0.706);
 }
 
+a:link{
+    color: black;
+    text-decoration: none;
+}
 
-
-
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
 
 
 
